@@ -1,4 +1,4 @@
-package com.example.fcmnotification.ui.theme
+package com.example.nightsleep.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

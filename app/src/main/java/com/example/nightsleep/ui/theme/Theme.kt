@@ -1,4 +1,4 @@
-package com.example.fcmnotification.ui.theme
+package com.example.nightsleep.ui.theme
 
 import android.app.Activity
 import android.os.Build

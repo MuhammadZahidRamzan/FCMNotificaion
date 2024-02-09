@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FCM Notification"
+rootProject.name = "Night Sleep"
 include(":app")
  

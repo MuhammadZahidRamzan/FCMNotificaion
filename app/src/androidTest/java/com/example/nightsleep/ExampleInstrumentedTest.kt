@@ -1,4 +1,4 @@
-package com.example.fcmnotification
+package com.example.nightsleep
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
